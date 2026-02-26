@@ -1,0 +1,77 @@
+{
+  "languages": {
+    "hi": "Hindi",
+    "en": "English",
+    "mr": "Marathi",
+    "gu": "Gujarati",
+    "pa": "Punjabi",
+    "ta": "Tamil",
+    "te": "Telugu",
+    "kn": "Kannada"
+  },
+  "onboarding": {
+    "welcome": "Welcome to Jal Sathi",
+    "select_language": "Select your preferred language",
+    "crop_type": "What crop are you growing?",
+    "field_size": "What is your field size? (in acres)",
+    "location": "Where is your field located?",
+    "irrigation_method": "What irrigation method do you use?",
+    "contact_number": "Enter your mobile number",
+    "complete": "Setup complete! Your first recommendation is ready."
+  },
+  "crops": {
+    "rice": "Rice",
+    "wheat": "Wheat",
+    "cotton": "Cotton",
+    "sugarcane": "Sugarcane",
+    "maize": "Maize",
+    "soybean": "Soybean",
+    "groundnut": "Groundnut",
+    "tomato": "Tomato",
+    "potato": "Potato",
+    "onion": "Onion",
+    "chili": "Chili",
+    "banana": "Banana",
+    "mango": "Mango",
+    "grapes": "Grapes"
+  },
+  "irrigation_methods": {
+    "drip": "Drip Irrigation",
+    "sprinkler": "Sprinkler",
+    "flood": "Flood Irrigation",
+    "furrow": "Furrow Irrigation"
+  },
+  "timing": {
+    "morning": "morning",
+    "afternoon": "afternoon",
+    "evening": "evening"
+  },
+  "recommendation": {
+    "irrigate": "Water your field {amount}mm this {timing}.",
+    "no_irrigate": "No irrigation needed today.",
+    "reasoning": "Reason: {reason}"
+  },
+  "sms": {
+    "irrigate": "Water {amount}mm {timing}. -Jal Sathi",
+    "no_irrigate": "No water needed today. -Jal Sathi"
+  },
+  "savings": {
+    "message": "You saved {water}L water and ₹{cost}!",
+    "water_label": "Water Saved",
+    "cost_label": "Money Saved"
+  },
+  "milestones": {
+    "water": "Congratulations! You saved {value}L of water!",
+    "cost": "Amazing! You saved ₹{value}!"
+  },
+  "schedule": {
+    "title": "7-Day Irrigation Schedule",
+    "irrigate_day": "Irrigate",
+    "no_irrigate_day": "No irrigation"
+  },
+  "errors": {
+    "field_size_invalid": "Field size must be between 0.1 and 50 acres",
+    "language_not_supported": "Language not supported",
+    "missing_data": "Required information is missing"
+  }
+}

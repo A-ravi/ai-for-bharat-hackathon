@@ -1,0 +1,77 @@
+{
+  "languages": {
+    "hi": "ਹਿੰਦੀ",
+    "en": "ਅੰਗਰੇਜ਼ੀ",
+    "mr": "ਮਰਾਠੀ",
+    "gu": "ਗੁਜਰਾਤੀ",
+    "pa": "ਪੰਜਾਬੀ",
+    "ta": "ਤਮਿਲ",
+    "te": "ਤੇਲਗੂ",
+    "kn": "ਕੰਨੜ"
+  },
+  "onboarding": {
+    "welcome": "ਜਲ ਸਾਥੀ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ",
+    "select_language": "ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਚੁਣੋ",
+    "crop_type": "ਤੁਸੀਂ ਕਿਹੜੀ ਫਸਲ ਉਗਾ ਰਹੇ ਹੋ?",
+    "field_size": "ਤੁਹਾਡੇ ਖੇਤ ਦਾ ਆਕਾਰ ਕੀ ਹੈ? (ਏਕੜ ਵਿੱਚ)",
+    "location": "ਤੁਹਾਡਾ ਖੇਤ ਕਿੱਥੇ ਸਥਿਤ ਹੈ?",
+    "irrigation_method": "ਤੁਸੀਂ ਕਿਹੜੀ ਸਿੰਚਾਈ ਵਿਧੀ ਵਰਤਦੇ ਹੋ?",
+    "contact_number": "ਆਪਣਾ ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ",
+    "complete": "ਸੈੱਟਅੱਪ ਪੂਰਾ! ਤੁਹਾਡੀ ਪਹਿਲੀ ਸਿਫਾਰਸ਼ ਤਿਆਰ ਹੈ।"
+  },
+  "crops": {
+    "rice": "ਚੌਲ",
+    "wheat": "ਕਣਕ",
+    "cotton": "ਕਪਾਹ",
+    "sugarcane": "ਗੰਨਾ",
+    "maize": "ਮੱਕੀ",
+    "soybean": "ਸੋਇਆਬੀਨ",
+    "groundnut": "ਮੂੰਗਫਲੀ",
+    "tomato": "ਟਮਾਟਰ",
+    "potato": "ਆਲੂ",
+    "onion": "ਪਿਆਜ਼",
+    "chili": "ਮਿਰਚ",
+    "banana": "ਕੇਲਾ",
+    "mango": "ਅੰਬ",
+    "grapes": "ਅੰਗੂਰ"
+  },
+  "irrigation_methods": {
+    "drip": "ਡ੍ਰਿਪ ਸਿੰਚਾਈ",
+    "sprinkler": "ਛਿੜਕਾਅ",
+    "flood": "ਹੜ੍ਹ ਸਿੰਚਾਈ",
+    "furrow": "ਕੁੰਡ ਸਿੰਚਾਈ"
+  },
+  "timing": {
+    "morning": "ਸਵੇਰੇ",
+    "afternoon": "ਦੁਪਹਿਰ",
+    "evening": "ਸ਼ਾਮ"
+  },
+  "recommendation": {
+    "irrigate": "ਅੱਜ {timing} {amount}ਮਿਮੀ ਪਾਣੀ ਦਿਓ।",
+    "no_irrigate": "ਅੱਜ ਸਿੰਚਾਈ ਦੀ ਲੋੜ ਨਹੀਂ।",
+    "reasoning": "ਕਾਰਨ: {reason}"
+  },
+  "sms": {
+    "irrigate": "ਅੱਜ {timing} {amount}ਮਿਮੀ ਪਾਣੀ ਦਿਓ। -ਜਲ ਸਾਥੀ",
+    "no_irrigate": "ਅੱਜ ਪਾਣੀ ਦੀ ਲੋੜ ਨਹੀਂ। -ਜਲ ਸਾਥੀ"
+  },
+  "savings": {
+    "message": "ਤੁਸੀਂ {water}ਲੀ ਪਾਣੀ ਅਤੇ ₹{cost} ਬਚਾਏ!",
+    "water_label": "ਪਾਣੀ ਬਚਾਇਆ",
+    "cost_label": "ਪੈਸੇ ਬਚਾਏ"
+  },
+  "milestones": {
+    "water": "ਵਧਾਈਆਂ! ਤੁਸੀਂ {value}ਲੀ ਪਾਣੀ ਬਚਾਇਆ!",
+    "cost": "ਸ਼ਾਨਦਾਰ! ਤੁਸੀਂ ₹{value} ਬਚਾਏ!"
+  },
+  "schedule": {
+    "title": "7-ਦਿਨਾਂ ਦੀ ਸਿੰਚਾਈ ਯੋਜਨਾ",
+    "irrigate_day": "ਸਿੰਚਾਈ ਕਰੋ",
+    "no_irrigate_day": "ਸਿੰਚਾਈ ਨਹੀਂ"
+  },
+  "errors": {
+    "field_size_invalid": "ਖੇਤ ਦਾ ਆਕਾਰ 0.1 ਤੋਂ 50 ਏਕੜ ਵਿਚਕਾਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+    "language_not_supported": "ਭਾਸ਼ਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ",
+    "missing_data": "ਲੋੜੀਂਦੀ ਜਾਣਕਾਰੀ ਗੁੰਮ ਹੈ"
+  }
+}

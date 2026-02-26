@@ -1,0 +1,77 @@
+{
+  "languages": {
+    "hi": "हिंदी",
+    "en": "इंग्रजी",
+    "mr": "मराठी",
+    "gu": "गुजराती",
+    "pa": "पंजाबी",
+    "ta": "तमिळ",
+    "te": "तेलुगू",
+    "kn": "कन्नड"
+  },
+  "onboarding": {
+    "welcome": "जल साथी मध्ये आपले स्वागत आहे",
+    "select_language": "आपली पसंतीची भाषा निवडा",
+    "crop_type": "तुम्ही कोणते पीक लावत आहात?",
+    "field_size": "तुमच्या शेताचा आकार किती आहे? (एकरमध्ये)",
+    "location": "तुमचे शेत कुठे आहे?",
+    "irrigation_method": "तुम्ही कोणती सिंचन पद्धत वापरता?",
+    "contact_number": "तुमचा मोबाईल नंबर टाका",
+    "complete": "सेटअप पूर्ण! तुमची पहिली शिफारस तयार आहे।"
+  },
+  "crops": {
+    "rice": "तांदूळ",
+    "wheat": "गहू",
+    "cotton": "कापूस",
+    "sugarcane": "ऊस",
+    "maize": "मका",
+    "soybean": "सोयाबीन",
+    "groundnut": "भुईमूग",
+    "tomato": "टोमॅटो",
+    "potato": "बटाटा",
+    "onion": "कांदा",
+    "chili": "मिरची",
+    "banana": "केळी",
+    "mango": "आंबा",
+    "grapes": "द्राक्षे"
+  },
+  "irrigation_methods": {
+    "drip": "ठिबक सिंचन",
+    "sprinkler": "फवारा",
+    "flood": "पूर सिंचन",
+    "furrow": "कुंड सिंचन"
+  },
+  "timing": {
+    "morning": "सकाळी",
+    "afternoon": "दुपारी",
+    "evening": "संध्याकाळी"
+  },
+  "recommendation": {
+    "irrigate": "आज {timing} {amount}मिमी पाणी द्या।",
+    "no_irrigate": "आज सिंचनाची गरज नाही।",
+    "reasoning": "कारण: {reason}"
+  },
+  "sms": {
+    "irrigate": "आज {timing} {amount}मिमी पाणी द्या। -जल साथी",
+    "no_irrigate": "आज पाण्याची गरज नाही। -जल साथी"
+  },
+  "savings": {
+    "message": "तुम्ही {water}ली पाणी आणि ₹{cost} वाचवले!",
+    "water_label": "पाणी वाचवले",
+    "cost_label": "पैसे वाचवले"
+  },
+  "milestones": {
+    "water": "अभिनंदन! तुम्ही {value}ली पाणी वाचवले!",
+    "cost": "छान! तुम्ही ₹{value} वाचवले!"
+  },
+  "schedule": {
+    "title": "7-दिवसांची सिंचन योजना",
+    "irrigate_day": "सिंचन करा",
+    "no_irrigate_day": "सिंचन नाही"
+  },
+  "errors": {
+    "field_size_invalid": "शेताचा आकार 0.1 ते 50 एकर दरम्यान असावा",
+    "language_not_supported": "भाषा समर्थित नाही",
+    "missing_data": "आवश्यक माहिती उपलब्ध नाही"
+  }
+}

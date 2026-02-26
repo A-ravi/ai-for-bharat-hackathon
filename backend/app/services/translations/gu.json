@@ -1,0 +1,77 @@
+{
+  "languages": {
+    "hi": "હિન્દી",
+    "en": "અંગ્રેજી",
+    "mr": "મરાઠી",
+    "gu": "ગુજરાતી",
+    "pa": "પંજાબી",
+    "ta": "તમિલ",
+    "te": "તેલુગુ",
+    "kn": "કન્નડ"
+  },
+  "onboarding": {
+    "welcome": "જલ સાથીમાં આપનું સ્વાગત છે",
+    "select_language": "તમારી પસંદગીની ભાષા પસંદ કરો",
+    "crop_type": "તમે કયો પાક ઉગાડો છો?",
+    "field_size": "તમારા ખેતરનું કદ શું છે? (એકરમાં)",
+    "location": "તમારું ખેતર ક્યાં આવેલું છે?",
+    "irrigation_method": "તમે કઈ સિંચાઈ પદ્ધતિનો ઉપયોગ કરો છો?",
+    "contact_number": "તમારો મોબાઇલ નંબર દાખલ કરો",
+    "complete": "સેટઅપ પૂર્ણ! તમારી પ્રથમ ભલામણ તૈયાર છે।"
+  },
+  "crops": {
+    "rice": "ચોખા",
+    "wheat": "ઘઉં",
+    "cotton": "કપાસ",
+    "sugarcane": "શેરડી",
+    "maize": "મકાઈ",
+    "soybean": "સોયાબીન",
+    "groundnut": "મગફળી",
+    "tomato": "ટામેટાં",
+    "potato": "બટાકા",
+    "onion": "ડુંગળી",
+    "chili": "મરચાં",
+    "banana": "કેળા",
+    "mango": "કેરી",
+    "grapes": "દ્રાક્ષ"
+  },
+  "irrigation_methods": {
+    "drip": "ટીપું સિંચાઈ",
+    "sprinkler": "છંટકાવ",
+    "flood": "પૂર સિંચાઈ",
+    "furrow": "ચાસ સિંચાઈ"
+  },
+  "timing": {
+    "morning": "સવારે",
+    "afternoon": "બપોરે",
+    "evening": "સાંજે"
+  },
+  "recommendation": {
+    "irrigate": "આજે {timing} {amount}મીમી પાણી આપો।",
+    "no_irrigate": "આજે સિંચાઈની જરૂર નથી।",
+    "reasoning": "કારણ: {reason}"
+  },
+  "sms": {
+    "irrigate": "આજે {timing} {amount}મીમી પાણી આપો। -જલ સાથી",
+    "no_irrigate": "આજે પાણીની જરૂર નથી। -જલ સાથી"
+  },
+  "savings": {
+    "message": "તમે {water}લી પાણી અને ₹{cost} બચાવ્યા!",
+    "water_label": "પાણી બચાવ્યું",
+    "cost_label": "પૈસા બચાવ્યા"
+  },
+  "milestones": {
+    "water": "અભિનંદન! તમે {value}લી પાણી બચાવ્યું!",
+    "cost": "અદ્ભુત! તમે ₹{value} બચાવ્યા!"
+  },
+  "schedule": {
+    "title": "7-દિવસની સિંચાઈ યોજના",
+    "irrigate_day": "સિંચાઈ કરો",
+    "no_irrigate_day": "સિંચાઈ નહીં"
+  },
+  "errors": {
+    "field_size_invalid": "ખેતરનું કદ 0.1 થી 50 એકર વચ્ચે હોવું જોઈએ",
+    "language_not_supported": "ભાષા સપોર્ટેડ નથી",
+    "missing_data": "જરૂરી માહિતી ખૂટે છે"
+  }
+}
